@@ -25,9 +25,9 @@ A simple command-line interface (CLI) application to track your personal income 
 
 ## 📂 Project Structure
 
-- FinanceCLI.py # Main CLI app
-- FinanceService.py # Service layer
-- FinanceDbDao.py # Database DAO logic
-- model.py # Transaction model class
-- .env # Environment variables
-- requirements.txt # Python dependencies
+- FinanceCLI.py ( Main CLI app )
+- FinanceService.py ( Service layer )
+- FinanceDbDao.py ( Database DAO logic )
+- model.py ( Transaction model class )
+- .env ( Environment variables )
+- requirements.txt ( Python dependencies )
